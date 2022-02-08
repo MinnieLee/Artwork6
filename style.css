@@ -73,7 +73,7 @@
 	  .box1{
 		background-color: black;
 	  height: 0.1vh;
-	  width: 114%;
+	  width: 100vw;
 	 
 	  }
 
@@ -113,7 +113,7 @@
 } 
 .line{
 	height:1px;
-	width: 114%;
+	width: 100vw;
 	background-color: black;
 }
 
